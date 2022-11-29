@@ -13,17 +13,17 @@ seqの後に数字を入力すると、1から入力した数字まで順に足�
 
 ## 実行例と実行結果　
 
-'''
+```
 $ seq 10 | ./plus
 
 55
-'''
+```
 
 ## インストール方法
 
-'''
+```
 $ git clone https://github.com/yukihiroshiojima/robosys2021.git
-'''
+```
 
 
 
@@ -31,10 +31,10 @@ $ git clone https://github.com/yukihiroshiojima/robosys2021.git
 
 ## 必要なソフトウェア
 
-* Python 3.7~3.10 テスト済み
+* Python 3.7~3.10 
 
 
-## テスト環境
+## 動作確認済み環境 
 
 * Ubuntu20.04
 
