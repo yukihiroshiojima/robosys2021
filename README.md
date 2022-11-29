@@ -14,6 +14,10 @@ seqの後に数字を入力すると、1から入力した数字まで順に足�
 
 git clone https://github.com/yukihiroshiojima/robosys2021.git
 
+git commitでリポジトリに情報を反映する
+
+git pushでGitHubのリポジトリに転送する
+
 
 ## 必要なソフトウェア
 
